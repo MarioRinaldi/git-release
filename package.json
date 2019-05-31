@@ -1,6 +1,6 @@
 {
   "name": "git-release",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Release a new version of your Git project",
   "main": "./index",
   "scripts": {
@@ -20,13 +20,13 @@
     "url": "https://github.com/oligot/git-release/issues"
   },
   "dependencies": {
-    "array.prototype.find": "^1.0.0",
-    "chalk": "^0.5.1",
-    "commander": "^2.1.0",
-    "inquirer": "^0.8.0",
-    "semver": "^4.2.2",
-    "shelljs": "^0.3.0",
-    "xmldom": "^0.1.19"
+    "array.prototype.find": "^2.1.0",
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1",
+    "semver": "^6.1.1",
+    "shelljs": "^0.8.3",
+    "xmldom": "^0.1.27"
   },
   "bin": {
     "release": "./bin/release"
