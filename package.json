@@ -1,6 +1,6 @@
 {
   "name": "git-release",
-  "version": "0.7.0",
+  "version": "1.0.0",
   "description": "Release a new version of your Git project",
   "main": "./index",
   "scripts": {
